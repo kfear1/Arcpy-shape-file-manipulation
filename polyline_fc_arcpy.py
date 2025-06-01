@@ -1,5 +1,7 @@
 """Using arcpy to create and manipulate polyline feature classes"""
-#Goals: 1. Create polyline feature class from oneline text file. Oneline.txt has one polyline object. 2. Create polyline feature class from Test text file, Test.txt has multiple polyline objects
+#Goals: 1. Create polyline feature class from oneline text file. Oneline.txt has one polyline object. 
+#2. Create polyline feature class from Test text file, Test.txt has multiple polyline objects
+
 #importing libraries
 
 import arcpy

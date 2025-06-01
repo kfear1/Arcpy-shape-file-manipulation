@@ -1,5 +1,6 @@
 """Using arcpy to create and manipulate point feature classes"""
-#Goals: 1. Create point feature class (locations.shp) from locations text file. 2. Calculate the mean center for locations.shp and create a new shapefile with all the locations as well as the mean center
+#Goals: 1. Create point feature class (locations.shp) from locations text file. 2. Calculate the mean 
+#center for locations.shp and create a new shapefile with all the locations as well as the mean center
 
 #importing libraries
 
